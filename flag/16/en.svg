@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="16px" viewBox="0 0 24 16" style="enable-background:new 0 0 24 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#D02027;}
+	.st3{fill:#18325B;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0" width="24" height="16"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect x="0" y="0" class="st1" width="24" height="16"/>
+		<polyline class="st2" points="24,6.4 13.2,6.4 13.2,0 10.8,0 10.8,6.4 0,6.4 0,9.6 10.8,9.6 10.8,16 13.2,16 13.2,9.6 24,9.6 		
+			"/>
+		<path class="st2" d="M16,10.7h1.8l6.2,4.1V16 M8,5.3H6.2L0,1.2V0L8,5.3z M8,10.7h1.8l-8,5.3H0L8,10.7z M16,5.3h-1.8l8-5.3H24
+			L16,5.3z"/>
+		<path class="st3" d="M0,10.7v3.5l5.3-3.5 M24,10.7v3.5l-5.3-3.5H24z M0,5.3V1.8l5.3,3.5H0z M24,5.3V1.8l-5.3,3.5H24z M10,16v-4.9
+			L2.7,16H10z M14,16v-4.9l7.3,4.9H14z M10,0v4.9L2.7,0H10z M14,0v4.9L21.3,0H14z"/>
+	</g>
+</g>
+</svg>

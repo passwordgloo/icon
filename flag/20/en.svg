@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="30px" height="20px" viewBox="0 0 30 20" style="enable-background:new 0 0 30 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#D02027;}
+	.st3{fill:#18325B;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0" width="30" height="20"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect x="0" y="0" class="st1" width="30" height="20"/>
+		<polyline class="st2" points="30,8 16.5,8 16.5,0 13.5,0 13.5,8 0,8 0,12 13.5,12 13.5,20 16.5,20 16.5,12 30,12 		"/>
+		<path class="st2" d="M20,13.3h2.2l7.8,5.2V20 M10,6.7H7.8L0,1.5V0L10,6.7z M10,13.3h2.2L2.2,20H0L10,13.3z M20,6.7h-2.2l10-6.7H30
+			L20,6.7z"/>
+		<path class="st3" d="M0,13.3v4.4l6.6-4.4 M30,13.3v4.4l-6.6-4.4H30z M0,6.7V2.2l6.6,4.4H0z M30,6.7V2.2l-6.6,4.4H30z M12.5,20
+			v-6.1L3.4,20H12.5z M17.5,20v-6.1l9.1,6.1H17.5z M12.5,0v6.1L3.4,0H12.5z M17.5,0v6.1L26.6,0H17.5z"/>
+	</g>
+</g>
+</svg>
